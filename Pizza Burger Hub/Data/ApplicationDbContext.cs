@@ -12,5 +12,7 @@ namespace Pizza_Burger_Hub.Data
             : base(options)
         {
         }
+
+        public object Products { get; internal set; }
     }
 }
