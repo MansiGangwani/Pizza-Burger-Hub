@@ -2,7 +2,7 @@ using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace GuniKichen.Models
+namespace Pizza_Burger_Hub.Models
 {
     [Table("Carts")]
     public class Cart

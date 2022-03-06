@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace GuniKichen.Models
+namespace Pizza_Burger_Hub.Models
 {
     public class MyIdentityRole : IdentityUser<Guid>
     {
